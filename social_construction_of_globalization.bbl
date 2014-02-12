@@ -1,64 +1,13 @@
-% $ biblatex auxiliary file $
-% $ biblatex version 2.2 $
-% Do not modify the above lines!
-%
-% This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
-%
-\begingroup
-\makeatletter
-\@ifundefined{ver@biblatex.sty}
-  {\@latex@error
-     {Missing 'biblatex' package}
-     {The bibliography requires the 'biblatex' package.}
-      \aftergroup\endinput}
-  {}
-\endgroup
+\begin{thebibliography}{xx}
 
-\entry{Polanyi:2001vc}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Polanyi}{P.}%
-     {Karl}{K.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{language}{1}{%
-    {English}%
-  }
-  \list{publisher}{1}{%
-    {Beacon Press}%
-  }
-  \strng{namehash}{PK1}
-  \strng{fullhash}{PK1}
-  \field{labelyear}{2001}
-  \field{sortinit}{2}
-  \field{abstract}{%
-  In this classic work of economic history and social theory, Karl Polanyi
-  analyzes the economic and social changes brought about by the "great
-  transformation" of the Industrial Revolution. His analysis explains not only
-  the deficiencies of the self-regulating market, but the potentially dire
-  social consequences of untempered market capitalism. New introductory
-  material reveals the renewed importance of Polanyi's seminal analysis in an
-  era of globalization and free trade.%
-  }
-  \field{edition}{2}
-  \field{isbn}{9780807056431}
-  \field{series}{The Political and Economic Origins of Our Time}
-  \field{title}{{The Great Transformation}}
-  \verb{url}
-  \verb http://books.google.com/books?id=xHy8oKa4RikC&printsec=frontcover&dq=po
-  \verb lanyi&hl=&cd=2&source=gbs_api
-  \endverb
-  \list{location}{1}{%
-    {Boston}%
-  }
-  \field{month}{03}
-  \field{year}{2001}
-\endentry
+\bibitem[Adser{\`a} \harvardand\ Boix(2002)]{Adsera:2002vt}
+Adser{\`a}, Al{\'\i}cia, \harvardand\ Carles Boix. 2002.
+``{Trade, Democracy, Public Sector: The Political Underpinnings of Openness}.''
+  {\em International Organization} 56 (March): 229--262.
 
-\lossort
-\endlossort
+\bibitem[Polanyi(2001)]{Polanyi:2001vc}
+Polanyi, Karl. 2001.
+{\em {The Great Transformation}}.
+The Political and Economic Origins of Our Time 2 ed. Boston:  Beacon Press.
 
-\endinput
+\end{thebibliography}
