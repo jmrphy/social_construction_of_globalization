@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: social_construction_of_globalization.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: social_construction_of_globalization-blx.bib
+Database file #2: mybib.bib
+Biblatex version: 2.6
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 2 entries,
+            6019 wiz_defined-function locations,
+            1135 strings with 8857 characters,
+and the built_in function-call counts, 5275 in all, are:
+= -- 256
+> -- 183
+< -- 61
++ -- 89
+- -- 58
+* -- 275
+:= -- 502
+add.period$ -- 0
+call.type$ -- 2
+change.case$ -- 38
+chr.to.int$ -- 46
+cite$ -- 2
+duplicate$ -- 456
+empty$ -- 500
+format.name$ -- 51
+if$ -- 1197
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 58
+num.names$ -- 75
+pop$ -- 347
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 321
+stack$ -- 0
+substring$ -- 294
+swap$ -- 177
+text.length$ -- 43
+text.prefix$ -- 1
+top$ -- 1
+type$ -- 64
+warning$ -- 0
+while$ -- 77
+width$ -- 0
+write$ -- 55
