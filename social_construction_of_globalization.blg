@@ -1,51 +1,48 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: social_construction_of_globalization.aux
-The style file: apsr2006.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=20001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+The style file: apalike.bst
 Database file #1: mybib.bib
-You've used 16 entries,
-            3629 wiz_defined-function locations,
-            870 strings with 8354 characters,
-and the built_in function-call counts, 96992 in all, are:
-= -- 13944
-> -- 383
-< -- 0
-+ -- 7523
-- -- 217
-* -- 5667
-:= -- 16390
-add.period$ -- 64
-call.type$ -- 16
-change.case$ -- 209
-chr.to.int$ -- 16
-cite$ -- 16
-duplicate$ -- 9643
-empty$ -- 2763
-format.name$ -- 180
-if$ -- 16992
-int.to.chr$ -- 5
+Warning--empty journal in Garrett:1995tj
+You've used 13 entries,
+            1935 wiz_defined-function locations,
+            559 strings with 5626 characters,
+and the built_in function-call counts, 4818 in all, are:
+= -- 500
+> -- 114
+< -- 19
++ -- 34
+- -- 34
+* -- 346
+:= -- 819
+add.period$ -- 41
+call.type$ -- 13
+change.case$ -- 81
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 216
+empty$ -- 367
+format.name$ -- 51
+if$ -- 984
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 36
-newline$ -- 71
-num.names$ -- 169
-pop$ -- 293
+missing$ -- 15
+newline$ -- 68
+num.names$ -- 39
+pop$ -- 66
 preamble$ -- 1
-purify$ -- 240
+purify$ -- 82
 quote$ -- 0
-skip$ -- 163
+skip$ -- 183
 stack$ -- 0
-substring$ -- 20851
-swap$ -- 27
-text.length$ -- 224
+substring$ -- 364
+swap$ -- 47
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
-warning$ -- 0
-while$ -- 633
+type$ -- 74
+warning$ -- 1
+while$ -- 53
 width$ -- 0
-write$ -- 200
+write$ -- 171
+(There was 1 warning)

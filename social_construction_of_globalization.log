@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  10 AUG 2014 12:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.15)  24 APR 2015 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,18 +244,18 @@ LaTeX Warning: Label `default' multiply defined.
 )
 \openout1 = `social_construction_of_globalization.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
@@ -349,21 +349,24 @@ e
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+
+LaTeX Warning: No \author given.
+
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [1] [2]
-Overfull \hbox (5.25374pt too wide) in paragraph at lines 79--79
+Overfull \hbox (5.25374pt too wide) in paragraph at lines 78--78
 []\OT1/cmr/bx/n/17.28 Literature Re-view: Glob-al-iza-tion, Wel-fare, and
  []
 
-[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-Overfull \hbox (28.21365pt too wide) in paragraph at lines 424--430
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+Overfull \hbox (28.21365pt too wide) in paragraph at lines 423--429
 [][]
  []
 
-[16] [17] [18]
-Overfull \hbox (30.35281pt too wide) in paragraph at lines 508--508
+[15] [16] [17] [18]
+Overfull \hbox (30.35281pt too wide) in paragraph at lines 507--507
 []\OT1/cmr/bx/n/14.4 Globalization, the Me-dia, and Pref-er-ences Cross-Nationa
 lly 
  []
@@ -371,28 +374,28 @@ lly
 [19] <fdi.png, id=80, 563.706pt x 339.1872pt>
 File: fdi.png Graphic file (type png)
  <use fdi.png>
-Package pdftex.def Info: fdi.png used on input line 578.
+Package pdftex.def Info: fdi.png used on input line 577.
 (pdftex.def)             Requested size: 422.77846pt x 254.38977pt.
 
 <finopen.png, id=82, 575.751pt x 345.9324pt>
 File: finopen.png Graphic file (type png)
  <use finopen.png>
-Package pdftex.def Info: finopen.png used on input line 585.
+Package pdftex.def Info: finopen.png used on input line 584.
 (pdftex.def)             Requested size: 431.8122pt x 259.44865pt.
- [20 <./fdi.png>] [21] [22 <./finopen.png>]
-Overfull \hbox (1.08195pt too wide) in paragraph at lines 606--609
+ [20 <./fdi.png>] [21]
+Overfull \hbox (1.08195pt too wide) in paragraph at lines 605--608
 []\OT1/cmr/m/n/12 Trade is anoma-lous with re-spect to its non-interacted and i
 n-ter-acted terms. Surpis-
  []
 
-[23] [24] [25] [26] [27] [28] <rdgraph.png, id=113, 488.5452pt x 293.898pt>
+[22 <./finopen.png>] [23] [24] [25] [26] [27] [28]
+<rdgraph.png, id=113, 488.5452pt x 293.898pt>
 File: rdgraph.png Graphic file (type png)
-
-<use rdgraph.png>
-Package pdftex.def Info: rdgraph.png used on input line 865.
+ <use rdgraph.png>
+Package pdftex.def Info: rdgraph.png used on input line 864.
 (pdftex.def)             Requested size: 415.26538pt x 249.81445pt.
- [29 <./rdgraph.png>] [30] [31]
-(./social_construction_of_globalization.bbl [32] [33
+ [29 <./rdgraph.png>] [30] [31] (./social_construction_of_globalization.bbl [32
+] [33
 
 ]) [34]
 (./social_construction_of_globalization.aux)
@@ -402,16 +405,16 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 574 (\begingroup)
+### semi simple group (level 1) entered at line 573 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4323 strings out of 493315
- 64410 string characters out of 6137904
- 157606 words of memory out of 5000000
- 7714 multiletter control sequences out of 15000+600000
+ 4314 strings out of 493315
+ 64231 string characters out of 6137903
+ 157523 words of memory out of 5000000
+ 7705 multiletter control sequences out of 15000+600000
  11114 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,9n,38p,1534b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,38p,1216b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
@@ -427,7 +430,7 @@ r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
 al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on social_construction_of_globalization.pdf (35 pages, 371428 by
+Output written on social_construction_of_globalization.pdf (35 pages, 369968 by
 tes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
